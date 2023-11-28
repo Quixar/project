@@ -1,0 +1,10 @@
+﻿  project.cpp
+C:\Users\Quixar\source\repos\project\ConsoleLib.h(212,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Quixar\source\repos\project\ConsoleLib.h(212,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Quixar\source\repos\project\ConsoleLib.h(241,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Quixar\source\repos\project\project.cpp(54,5): warning C4551: function call missing argument list
+C:\Users\Quixar\source\repos\project\project.cpp(223,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Quixar\source\repos\project\project.cpp(454,10): warning C4101: 'Flop': unreferenced local variable
+C:\Users\Quixar\source\repos\project\project.cpp(456,10): warning C4101: 'Turn': unreferenced local variable
+C:\Users\Quixar\source\repos\project\project.cpp(458,10): warning C4101: 'River': unreferenced local variable
+  project.vcxproj -> C:\Users\Quixar\source\repos\project\x64\Debug\project.exe
